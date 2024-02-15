@@ -1,0 +1,6 @@
+URL:
+- https://park4night.com/services/V4.1/geocoding_web.php?q={__name_of_place__} → return {leng&lat}
+- https://park4night.com/api/places/around?lat={ }&lng={ }&radius={ }&filter={ } → return obj
+
+review / rating → ottengo il numero di persone * rating 
+
